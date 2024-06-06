@@ -1,16 +1,13 @@
-## Hi there 👋
+## bem vindo ao meu perfil
 
-<!--
-**joaogomessouza/joaogomessouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é joao vitor
 
-Here are some ideas to get you started:
+-estou estudando no alura    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-uso programa scratch e java script
+
+-uso este espaco para desenvolver e compartilhar meus projetos
+
+## entre em contato comigo por este gmail
+📧  gomesjaoum@gtmail.com
+
